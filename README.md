@@ -14,7 +14,6 @@ Podcasts:
 Notes:
 
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
-
 * **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
 
 *I will be adding more resources over time.*
