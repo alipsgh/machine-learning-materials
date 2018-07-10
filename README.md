@@ -5,7 +5,7 @@ Online Courses:
 
 * **Machine Learning**, by Michael Littman, Charles Isbell, and Pushkar Kolhe [[Udacity](https://www.udacity.com/course/machine-learning--ud262)]
 * **Machine Learning**, by Pedro Domingos [[Youtube](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)]
-* **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)]
+* **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
 
 Podcasts:
 
