@@ -1,5 +1,5 @@
 # Machine-Learning-Materials
-This repository shares very helpful materials, available on the Internet, for Machine Learning.
+This repository shares very helpful materials, available on the Internet, for Machine and Deep Learning.
 
 Online Courses:
 
@@ -13,3 +13,7 @@ Podcasts:
 Notes:
 
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
+
+* **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
+
+*I will be adding more resources over time.*
