@@ -11,6 +11,7 @@ Online Courses:
 Podcasts:
 
 * **TWiML & AI** [[SoundCloud](https://soundcloud.com/twiml)]
+* **Linear Digressions** [[Link](http://lineardigressions.com/)]
 
 Notes:
 
