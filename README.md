@@ -6,6 +6,7 @@ Online Courses:
 * **Machine Learning**, by Michael Littman, Charles Isbell, and Pushkar Kolhe [[Udacity](https://www.udacity.com/course/machine-learning--ud262)]
 * **Machine Learning**, by Pedro Domingos [[Youtube](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)]
 * **Machine Learning**, by Andrew NG [[Coursera](https://www.coursera.org/learn/machine-learning)]
+* **Machine Learning** (and more), by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Neural Networks**, by Hugo Larochelle [[Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)]
 * **Introduction to Deep Learning**, by Vincent Vanhoucke [[Youtube](https://www.youtube.com/watch?v=iF8dRePlPUo&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)][[Udacity](https://www.udacity.com/course/deep-learning--ud730)]
 * **Deep Learning**, by Nando de Freitas [[Youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
