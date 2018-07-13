@@ -10,6 +10,7 @@ Online Courses:
 * **Introduction to Deep Learning**, by Vincent Vanhoucke [[Youtube](https://www.youtube.com/watch?v=iF8dRePlPUo&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)][[Udacity](https://www.udacity.com/course/deep-learning--ud730)]
 * **Deep Learning**, by Nando de Freitas [[Youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
 * **Convolutional Neural Networks for Visual Recognition (CS231n)**, by Lei-Lei Fi, Andrej Karpathy, and Justin Johnson [[Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)][[Stanford](http://cs231n.stanford.edu/2016/)]
+* **Natural language processing with Deep Learning (CS224n)**, by Richard Socher [[Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)][[Stanford](http://web.stanford.edu/class/cs224n/)]
 
 Other materials:
 
