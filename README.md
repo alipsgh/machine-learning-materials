@@ -22,8 +22,9 @@ Podcasts:
 * **TWiML & AI** [[SoundCloud](https://soundcloud.com/twiml)]
 * **Linear Digressions** [[Link](http://lineardigressions.com/)]
 
-Notes:
+Web:
 
+* **Seedbank**, by Michael Tyka [[Seedbank](http://tools.google.com/seedbank/)]
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
 * **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
 
