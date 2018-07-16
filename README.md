@@ -12,7 +12,7 @@ Online Courses:
 * **Convolutional Neural Networks for Visual Recognition (CS231n)**, by Lei-Lei Fi, Andrej Karpathy, and Justin Johnson [[Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)][[Stanford](http://cs231n.stanford.edu/2016/)]
 * **Natural Language Processing with Deep Learning (CS224n)**, by Richard Socher [[Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)][[Stanford](http://web.stanford.edu/class/cs224n/)]
 
-Other materials:
+Other Materials:
 
 * **Machine Learning, Information Retrieval, and Data Analysis**, by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
