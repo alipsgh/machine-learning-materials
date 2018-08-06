@@ -7,6 +7,7 @@ Online Courses:
 * **Machine Learning**, by Pedro Domingos [[Youtube](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)]
 * **Machine Learning**, by Andrew NG [[Coursera](https://www.coursera.org/learn/machine-learning)]
 * **Neural Networks**, by Hugo Larochelle [[Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)]
+* **Neural Networks for Machine Learning**, by Geoffrey Hinton [[Youtube](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)]
 * **Introduction to Deep Learning**, by Vincent Vanhoucke [[Youtube](https://www.youtube.com/watch?v=iF8dRePlPUo&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)][[Udacity](https://www.udacity.com/course/deep-learning--ud730)]
 * **Deep Learning**, by Nando de Freitas [[Youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
 * **Convolutional Neural Networks for Visual Recognition (CS231n)**, by Lei-Lei Fi, Andrej Karpathy, and Justin Johnson [[Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)][[Stanford](http://cs231n.stanford.edu/2016/)]
