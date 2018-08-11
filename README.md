@@ -15,7 +15,7 @@ Online Courses:
 
 Other Courses:
 
-* **Introduction to Parallel Computing**, by David Luebke, John Owens, Mike Roberts, and Cheng-Han Lee, [[Udacity/Youtube](Intro to Parallel Programming)]
+* **Introduction to Parallel Computing**, by David Luebke, John Owens, Mike Roberts, and Cheng-Han Lee, [[Udacity/Youtube](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)]
 * **Machine Learning, Information Retrieval, and Data Analysis**, by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
 
