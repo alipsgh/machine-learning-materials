@@ -23,7 +23,9 @@ Other Courses:
 Podcasts:
 
 * **TWiML & AI** [[SoundCloud](https://soundcloud.com/twiml)]
-* **Linear Digressions** [[Link](http://lineardigressions.com/)]
+* **Taling Machine** [[SoundCloud](https://soundcloud.com/talkingmachines)]
+* **Artificial Intelligence in Industry** [[SoundCloud](https://soundcloud.com/techemergence)]
+* **Linear Digressions** [[SoundCloud](https://soundcloud.com/linear-digressions)]
 
 Web:
 
