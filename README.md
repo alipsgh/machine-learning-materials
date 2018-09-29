@@ -32,8 +32,8 @@ Podcasts:
 
 Web:
 
-* **Distill**, Distill [[Distill](https://distill.pub/)]
-* **Colah's Blog**, Chris Olah [[GitHub](http://colah.github.io/)]
+* **Distill**, by Distill [[Distill](https://distill.pub/)]
+* **Colah's Blog**, by Chris Olah [[GitHub](http://colah.github.io/)]
 * **Seedbank**, by Michael Tyka [[Seedbank](http://tools.google.com/seedbank/)]
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
 * **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
