@@ -14,6 +14,7 @@ Online Courses:
 * **Convolutional Neural Networks for Visual Recognition (CS231n) (Winter 2016)**, by Lei-Lei Fi, Andrej Karpathy, and Justin Johnson [[Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)][[Stanford](http://cs231n.stanford.edu/2016/)]
 * **Convolutional Neural Networks for Visual Recognition (CS231n) (Spring 2017)**, by Lei-Lei Fi, Justin Johnson, and Serena Yeung [[Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
 * **Natural Language Processing with Deep Learning (CS224n)**, by Richard Socher [[Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)][[Stanford](http://web.stanford.edu/class/cs224n/)]
+* **Intro to Deep Learning with PyTorch**, by Luis Serrano, [[Udacity](https://classroom.udacity.com/courses/ud188)]
 
 Other Courses:
 
