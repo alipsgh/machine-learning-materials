@@ -44,6 +44,7 @@ Web:
 Other Materials:
 
 * **KDnuggets** [[KDnuggets](https://www.kdnuggets.com/)]
+* **DataCamp** [[DataCamp](https://www.datacamp.com/community)]
 
 <br/>
 <sup>I will be adding more resources over time.</sup>
