@@ -32,6 +32,7 @@ Podcasts:
 * **Artificial Intelligence in Industry** [[SoundCloud](https://soundcloud.com/techemergence)]
 * **Linear Digressions** [[SoundCloud](https://soundcloud.com/linear-digressions)]
 * **Element AI** [[itunes](https://itunes.apple.com/ca/podcast/the-ai-element/id1414087665?mt=2)]
+* **DataCamp Podcast** [[URL](https://www.datacamp.com/community/podcast)]
 
 Web:
 
