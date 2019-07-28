@@ -43,6 +43,7 @@ Web:
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
 * **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
 * **Spinning Up in Deep RL** [[OpenAI](https://spinningup.openai.com/en/latest/index.html)]
+* **Practical Deep Learning for Coders** [[FastAI](https://course.fast.ai/)]
 
 Other Materials:
 
