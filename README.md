@@ -25,7 +25,6 @@ Other Courses:
 * **Machine Learning, Information Retrieval, and Data Analysis**, by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
 * **Learn TensorFlow and deep learning, without a Ph.D.** [[Google Cloud](https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd)]
-* **A (Long) Peek into Reinforcement Learning** [[Lilian Weng](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)]
 
 Podcasts:
 
@@ -44,6 +43,7 @@ Web:
 * **Deep Learning with Python**, by Francois Chollet [[GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)]
 * **PyTorch Tutorial** [[PyTorch](https://pytorch.org/tutorials/index.html)]
 * **Spinning Up in Deep RL** [[OpenAI](https://spinningup.openai.com/en/latest/index.html)]
+* **A (Long) Peek into Reinforcement Learning** [[Lilian Weng](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)]
 * **Practical Deep Learning for Coders** [[FastAI](https://course.fast.ai/)]
 
 Other Materials:
