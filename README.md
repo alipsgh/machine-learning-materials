@@ -45,6 +45,7 @@ Web:
 * **Spinning Up in Deep RL** [[OpenAI](https://spinningup.openai.com/en/latest/index.html)]
 * **Practical Deep Learning for Coders** [[FastAI](https://course.fast.ai/)]
 * **A (Long) Peek into Reinforcement Learning** [[Lilian Weng](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)]
+* **Reinforcement Learning** [[GitHub](https://github.com/dennybritz/reinforcement-learning)]
 
 Other Materials:
 
