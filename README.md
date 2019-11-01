@@ -25,6 +25,7 @@ Other Courses:
 * **Machine Learning, Information Retrieval, and Data Analysis**, by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
 * **Learn TensorFlow and deep learning, without a Ph.D.** [[Google Cloud](https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd)]
+* **MIT 6.S191: Deep Reinforcement Learning** [[Youtube](https://www.youtube.com/watch?v=i6Mi2_QM3rA)]
 
 Podcasts:
 
