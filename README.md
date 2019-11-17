@@ -22,7 +22,7 @@ Other Courses:
 * **Introduction to Deep Learning with Neon**, by Nervana Team [[Youtube](https://www.youtube.com/watch?v=6twMD2DGXDM&list=PLXAoLgwZtKcgGE2-Wy23EUE4Q03s-YVwF)]
 * **MIT 6.S191 - Introduction to Deep Learning**, by Nick Locascio, et al., [[Youtube](https://www.youtube.com/watch?v=IgSuFYamZas&list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)]
 * **Introduction to Parallel Computing**, by David Luebke, John Owens, Mike Roberts, and Cheng-Han Lee, [[Udacity/Youtube](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)]
-* **Manning of Massive Datasets**, by Jure Leskovec, et al., [[Web](http://www.mmds.org/)]
+* **Manning of Massive Datasets**, by Jure Leskovec, et al., [[Web](http://www.mmds.org/)][[Youtube](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)]
 * **Machine Learning, Information Retrieval, and Data Analysis**, by Victor Lavrenko [[Youtube](https://www.youtube.com/user/victorlavrenko/playlists)]
 * **Data Mining**, by Ian Witten [[FutureLearn](https://www.futurelearn.com/profiles/3261833)][[Youtube](https://www.youtube.com/user/WekaMOOC/playlists)]
 * **Learn TensorFlow and deep learning, without a Ph.D.** [[Google Cloud](https://cloud.google.com/blog/products/gcp/learn-tensorflow-and-deep-learning-without-a-phd)]
