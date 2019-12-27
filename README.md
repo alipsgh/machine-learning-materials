@@ -15,6 +15,9 @@ Online Courses:
 * **Convolutional Neural Networks for Visual Recognition (CS231n) (Spring 2017)**, by Lei-Lei Fi, Justin Johnson, and Serena Yeung [[Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
 * **Natural Language Processing with Deep Learning (CS224n)**, by Richard Socher [[Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)][[Stanford](http://web.stanford.edu/class/cs224n/)]
 * **Intro to Deep Learning with PyTorch**, by Luis Serrano, [[Udacity](https://classroom.udacity.com/courses/ud188)]
+
+Reinforcement Learning:
+
 * **Reinforcement Learning**, by David Silver, [[UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)][[Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)]
 * **Deep Reinforcement Learning**, by Sergey Levine et al., [[UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)][[Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)]
 
