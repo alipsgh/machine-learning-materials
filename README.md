@@ -24,6 +24,7 @@ This repository shares very helpful materials, available on the Internet, for Ma
 * **Deep Reinforcement Learning**, by Sergey Levine et al., [[UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)][[Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)]
 * **Learning Reinforcement Learning (with Code, Exercises and Solutions)**, by Denny Britz, [[WILDML](http://www.wildml.com/2016/10/learning-reinforcement-learning/)]
 * **Reinforcement Learning**, by Charles Isbell, Michael Littman, Chris Pryby [[Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)]
+* **Reinforcement Learning**, Pascal Poupart, [(UWaterloo)[https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/]]
 
 ## Other Courses:
 
