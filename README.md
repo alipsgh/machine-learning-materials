@@ -8,6 +8,7 @@ This repository shares very helpful materials, available on the Internet, for Ma
 * **Machine Learning**, by Yaser Abu-Mostafa [[Youtube](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)] (Caltech)
 * **Neural Networks**, by Hugo Larochelle [[Youtube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)] (Université de Sherbrooke)
 * **Neural Networks for Machine Learning**, by Geoffrey Hinton [[Youtube](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)] (University of Toronto)
+* **Machine Learning**, by MathematicalMonk [[Youtube](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)]
 
 ## Deep Learning:
 
